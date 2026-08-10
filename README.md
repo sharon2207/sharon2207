@@ -50,13 +50,11 @@
 
 <br>
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sharon2207&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharon2207&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sharon2207&theme=tokyo-night&hide_border=true" width="95%"/>
 
 </div>
 
