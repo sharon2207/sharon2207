@@ -44,40 +44,28 @@ Fun_fact: I turn ideas into practical projects, one commit at a time 🚀
 
 ## 🚀 Featured Projects
 
-<div align="center">
-
 <table>
   <tr>
     <td width="50%">
-      <a href="https://github.com/sharon2207/Academicare-Demo">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sharon2207&repo=Academicare-Demo&theme=tokyonight&hide_border=true" />
-      </a>
-      <p align="center">🧠 Cloud-based student burnout detection & prevention platform, powered by ML recommendations.<br><b>Tech:</b> Python · FastAPI · PostgreSQL · AWS · ML</p>
+      <h3 align="center">🧠 <a href="https://github.com/sharon2207/Academicare-Demo">Academicare-Demo</a></h3>
+      <p align="center">Cloud-based student burnout detection & prevention platform, powered by ML recommendations.<br><b>Tech:</b> Python · FastAPI · PostgreSQL · AWS · ML</p>
     </td>
     <td width="50%">
-      <a href="https://github.com/sharon2207/Violence-Detection-">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sharon2207&repo=Violence-Detection-&theme=tokyonight&hide_border=true" />
-      </a>
-      <p align="center">🚨 AI-powered violence detection system for surveillance & security applications.<br><b>Tech:</b> Python · Deep Learning · Computer Vision</p>
+      <h3 align="center">🚨 <a href="https://github.com/sharon2207/Violence-Detection-">Violence-Detection</a></h3>
+      <p align="center">AI-powered violence detection system for surveillance & security applications.<br><b>Tech:</b> Python · Deep Learning · Computer Vision</p>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <a href="https://github.com/sharon2207/freelancer_connect">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sharon2207&repo=freelancer_connect&theme=tokyonight&hide_border=true" />
-      </a>
-      <p align="center">🤝 Platform connecting freelancers with potential clients.<br><b>Tech:</b> PHP · MySQL</p>
+      <h3 align="center">🤝 <a href="https://github.com/sharon2207/freelancer_connect">freelancer_connect</a></h3>
+      <p align="center">Platform connecting freelancers with potential clients.<br><b>Tech:</b> PHP · MySQL</p>
     </td>
     <td width="50%">
-      <a href="https://github.com/sharon2207/career-ai-pro">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sharon2207&repo=career-ai-pro&theme=tokyonight&hide_border=true" />
-      </a>
-      <p align="center">💼 AI-powered career guidance & job recommendation assistant.<br><b>Tech:</b> Python · AI/ML</p>
+      <h3 align="center">💼 <a href="https://github.com/sharon2207/career-ai-pro">career-ai-pro</a></h3>
+      <p align="center">AI-powered career guidance & job recommendation assistant.<br><b>Tech:</b> Python · AI/ML</p>
     </td>
   </tr>
 </table>
-
-</div>
 
 <br>
 
@@ -85,22 +73,7 @@ Fun_fact: I turn ideas into practical projects, one commit at a time 🚀
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=sharon2207&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=00000000" />
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharon2207&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=00000000" />
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=sharon2207&theme=tokyonight&hide_border=true&background=00000000" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sharon2207&theme=tokyo-night&hide_border=true&bg_color=00000000" width="100%"/>
-
-</div>
-
-<br>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=sharon2207&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" />
 
 </div>
 
