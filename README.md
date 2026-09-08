@@ -49,37 +49,35 @@ Fun_fact: I turn ideas into practical projects, one commit at a time 🚀
 <table>
   <tr>
     <td width="50%">
-      <a href="https://github.com/sharon2207/AcademiCare">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sharon2207&repo=AcademiCare&theme=tokyonight&hide_border=true" />
+      <a href="https://github.com/sharon2207/Academicare-Demo">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sharon2207&repo=Academicare-Demo&theme=tokyonight&hide_border=true" />
       </a>
       <p align="center">🧠 Cloud-based student burnout detection & prevention platform, powered by ML recommendations.<br><b>Tech:</b> Python · FastAPI · PostgreSQL · AWS · ML</p>
     </td>
     <td width="50%">
-      <a href="https://github.com/sharon2207">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sharon2207&repo=PET-breed-management&theme=tokyonight&hide_border=true" />
+      <a href="https://github.com/sharon2207/Violence-Detection-">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sharon2207&repo=Violence-Detection-&theme=tokyonight&hide_border=true" />
       </a>
-      <p align="center">🔐 Context-aware intrusion detection for healthcare IoT networks.<br><b>Tech:</b> Python · LSTM · CNN · Autoencoder · SHAP</p>
+      <p align="center">🚨 AI-powered violence detection system for surveillance & security applications.<br><b>Tech:</b> Python · Deep Learning · Computer Vision</p>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <a href="https://github.com/sharon2207/PET-breed-management">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sharon2207&repo=PET-breed-management&theme=tokyonight&hide_border=true" />
+      <a href="https://github.com/sharon2207/freelancer_connect">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sharon2207&repo=freelancer_connect&theme=tokyonight&hide_border=true" />
       </a>
-      <p align="center">🐾 Web app for managing and browsing dog breed information.<br><b>Tech:</b> React · Vite · Tailwind CSS</p>
+      <p align="center">🤝 Platform connecting freelancers with potential clients.<br><b>Tech:</b> PHP · MySQL</p>
     </td>
     <td width="50%">
-      <a href="https://github.com/sharon2207">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sharon2207&repo=Movie-Catalog&theme=tokyonight&hide_border=true" />
+      <a href="https://github.com/sharon2207/career-ai-pro">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sharon2207&repo=career-ai-pro&theme=tokyonight&hide_border=true" />
       </a>
-      <p align="center">🎬 Full-stack movie management app with search & filtering.<br><b>Tech:</b> Node.js · Express · MySQL · Tailwind CSS</p>
+      <p align="center">💼 AI-powered career guidance & job recommendation assistant.<br><b>Tech:</b> Python · AI/ML</p>
     </td>
   </tr>
 </table>
 
 </div>
-
-> 💡 **Note:** The project preview cards above pull live data from GitHub — make sure each repo name matches exactly and is public, or the card won't render. Swap in your real repo names if any differ.
 
 <br>
 
