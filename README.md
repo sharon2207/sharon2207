@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,25&height=220&section=header&text=Hi%20there,%20I'm%20Sharon20👋&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20|%20Cloud%20Enthusiast%20|%20ML%20Explorer&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,25&height=220&section=header&text=Hi%20there,%20I'm%20Sharon👋&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20|%20Cloud%20Enthusiast%20|%20ML%20Explorer&descAlignY=55&descSize=18" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=2ECC71&center=true&vCenter=true&width=600&height=45&lines=Building+cool+stuff+with+code+%F0%9F%9A%80;Turning+ideas+into+scalable+apps;Always+learning%2C+always+shipping" alt="Typing Animation" />
 
